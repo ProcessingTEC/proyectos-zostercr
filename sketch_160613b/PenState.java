@@ -1,0 +1,1 @@
+enum PenState {UP, DOWN};
